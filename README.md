@@ -12,8 +12,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rishabhgupta293)
 
 
-<br />
----
+<br/>
+<hr/>
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,10 +30,12 @@
 <img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="AWS" width="26px" src="https://miro.medium.com/max/4000/1*b_al7C5p26tbZG4sy-CWqw.png" />
 
+
 <br/>
----
+<br/>
+<hr/>
+
 ### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START --
 - [Photoshop Automation using JavaScript](http://blog.cipherhack.com/2018/12/30/photoshop-automation-using-javascript/)
 - [Going Asynchronous with Symbols, Iterators and Generators.](http://blog.cipherhack.com/2018/07/10/symbols-iterators-iterables-generators-explained/)
 - [10 ES6 syntactic changes that every Javascript developer must know](http://blog.cipherhack.com/2018/05/18/10-es6-syntactic-changes-that-every-javascript-developer-must-know/)
